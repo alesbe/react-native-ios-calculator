@@ -2,7 +2,7 @@
 
 ![Calculator image](https://i.imgur.com/dKVTo2h.jpeg)
 
-React Native project inspired by the iOS Calculator App desing, with slight variations.
+React Native project inspired by the iOS Calculator App design, with slight variations.
 
 ## 🛠️ Tools used for the project
 
